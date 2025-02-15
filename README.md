@@ -110,6 +110,6 @@ If everything is correct, click **Install** to proceed or **Back** to make chang
 
 ![Screenshot from 2025-01-31 19-56-20](https://github.com/user-attachments/assets/7eb1a543-961a-4222-89f3-272f8abab278)
 
-### **Step 5: Congratulations! Ubuntu Linux Has Been Installed on Your Machine**
+### **Congratulations! Ubuntu Linux Has Been Installed on Your Machine**
 
 ![123](https://github.com/user-attachments/assets/aeb1b709-7d61-4b24-8ce1-7004b864925b)
