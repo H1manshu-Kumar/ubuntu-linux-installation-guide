@@ -25,7 +25,7 @@ Follow these steps, and you'll have Ubuntu installed and running in your machine
 ![2](https://github.com/user-attachments/assets/21fb10b1-18b5-43b9-beb7-1d56f7b38070)
 
 ### Step 3: Boot from USB
-* Insert the bootable USB drive into your laptop
+* Insert the **bootable USB drive** into your laptop
 * Restart the laptop, press the appropriate key (**F10**, **F11**, **F12**, etc depending on your laptop) to access the boot menu
 * Select the **USB Storage Device** from Legacy Boot menu option
 
